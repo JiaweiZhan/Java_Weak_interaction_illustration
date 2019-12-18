@@ -63,7 +63,6 @@ public class Main_BounceBallControl extends Application
         StackPane right_pane = new StackPane();
 
         HBox hbox = new HBox();
-        // HBox hbox = new HBox();
 
         submit.setOnAction((ActionEvent e) -> {
             if (
